@@ -20,14 +20,6 @@
 
 ---
 
-### 🎯 2025 Goals
-
-- 🚀 Deploy 3+ real-world full-stack applications
-- 🤖 Explore OpenAI API integrations, and AI-powered assistants
-- ⚙️ Learn Docker, CI/CD pipelines, and backend scaling
-
----
-
 ### 🏆 Achievements
 
 - 🎖️ Certified in Full-Stack Web Development
