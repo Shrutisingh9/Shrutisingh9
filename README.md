@@ -82,7 +82,7 @@
 ### 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-singh-117b7225b/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](https://your-portfolio-link.com)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=firefox)](https://shrutisingh-portfolio.lovable.app/)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://x.com/tanukum_ss784)
 
 ---
