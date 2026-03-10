@@ -14,7 +14,6 @@
   - `HelloHands` – A sign language translator using TensorFlow  
   - `EcoPulse` – A carbon footprint tracker with gamified challenges  
   - `SwapIt` – An AI-Powered Community Item Exchange Platform  
-  - `e-com` – A lightweight, modern E-commerce website  
 - 💡 I love creating tech for **social impact**, and some for just **fun**
 - 📫 Reach me at: **tanukum.ss784@gmail.com**
 
@@ -23,7 +22,7 @@
 ### 🏆 Achievements
 
 - 🎖️ Certified in Full-Stack Web Development
-- 🌟 Built 5+ public projects with 100+ combined GitHub stars
+- 🌟 Built 5+ public projects
 
 ---
 
@@ -50,18 +49,6 @@
 
 #### Frameworks & Tools  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)  ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti-singh&show_icons=true&theme=tokyonight" alt="shruti's github stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-singh&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shruti-singh&theme=github-compact" alt="Activity Graph"/>
-</p>
 
 ---
 
